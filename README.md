@@ -1,5 +1,6 @@
 # Python-portfolio
-#Project 1: 39 parameters
+
+**#Project 1: 39 parameters**
 Where python projects are stored from semester 1
 calculates the area of something and also gives a discount depending on how much is applied.
 - This project taught me how to implement every day math into an assignment.
