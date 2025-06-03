@@ -28,6 +28,12 @@ It recommends a place for the user to vacation by taking the user's input and op
 url that displays a place for the user to visit.
 - This project taught me how to implement links and lists into my code.
 
+**#Project 7: Dog Breeds**
+This project allows the user to select a dog breed and then tells you the dogs size
+(Tiny, Small, Medium, Large).
+- This project taught me how to use a list and assign value to the items in the list.
+
+
 
 
 
