@@ -23,7 +23,10 @@ if it is right or wrong and gives you some chances to get it right.
 - This project taught me how to impement the "random" 
   function into coding projects.
 
-**#Project 6:
+**#Project 6: Semester 3 final project**
+It recommends a place for the user to vacation by taking the user's input and opening a 
+url that displays a place for the user to visit.
+- This project taught me how to implement links and lists into my code.
 
 
 
