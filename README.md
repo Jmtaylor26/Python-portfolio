@@ -23,6 +23,8 @@ if it is right or wrong and gives you some chances to get it right.
 - This project taught me how to impement the "random" 
   function into coding projects.
 
+**#Project 6:
+
 
 
 
